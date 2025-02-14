@@ -2,6 +2,8 @@
 
 This repository contains my personal Fish shell configuration files, optimized for a smooth and efficient command-line experience. It includes custom functions, aliases, and key bindings that enhance productivity and streamline the terminal workflow.
 
+For more information on Fish shell, check out the official website: [Fish Shell](https://fishshell.com).
+
 ## Features:
 - **Custom Prompt**: A visually appealing, clean, and informative prompt with Git integration.
 - **Aliases & Functions**: Handy shortcuts for frequently used commands, improving speed and efficiency.
