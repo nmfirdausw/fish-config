@@ -8,8 +8,11 @@ This repository contains my personal Fish shell configuration files, optimized f
 - **Environment Variables**: Pre-configured environment variables to optimize terminal behavior.
 
 ## Installation:
-1. Clone this repository to your machine.
-2. Symlink the `config.fish` file to your `~/.config/fish/` directory.
-3. Optionally, customize the theme and functions as per your preference.
+1. Clone this repository to the `~/.config/fish/` directory:
+    ```bash
+    git clone https://github.com/nmfirdausw/fish-config.git ~/.config/fish
+    ```
+2. Optionally, customize the theme and functions as per your preference.
 
 Feel free to fork, contribute, or create issues for improvements!
+
